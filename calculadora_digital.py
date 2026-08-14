@@ -21,4 +21,4 @@ print("El tiempo total dedicado a las aplicaciones es de:", tiempo_total, "horas
 
 porcentaje_total = (tiempo_total / 24)* 100
 print("El porcentaje del tiempo total dedicado a las aplicaciones es de:", porcentaje_total, "%")
-print("Utilizas mucho el celular pponte a hacer algo productivo")
+print("Utilizas mucho el celular ponte a hacer algo productivo")
