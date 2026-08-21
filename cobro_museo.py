@@ -1,3 +1,4 @@
+#Variables de boletos
 precio_bebe = 0.0
 precio_menores = 30.0
 precio_mayores = 45.0
@@ -23,8 +24,7 @@ print("\t|PERSONAS MAYORES DE 18 AÑOS   |    $45.00    |")
 
 
 
-
-total_visitantes = int(input("¿Cuantas boletos necesitas?: "))
+total_visitantes = int(input(f"\n¿Cuantas boletos necesitas?: "))
 
 for i in range (total_visitantes):
     print(f"\n -------Visitante {i + 1}-------")
