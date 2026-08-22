@@ -41,7 +41,7 @@ for i in range (total_visitantes):
     if edad < 3:
         descuento = descuento_ninguno
     else:
-        visitante = input("Seleccione el tipo de visitante que registra: (A)Adulto mayor, (B)Profesor, (C)Estudiante, (D)Menor de 3 años: ")        
+        visitante = input("Seleccione el tipo de visitante que registra: (A)Adulto mayor, (B)Profesor, (C)Estudiante: ")        
         if (visitante in ("Adulto mayor", "A")):
             descuento = descuento_adulto
         elif (visitante in ("Profesor", "B") ):
