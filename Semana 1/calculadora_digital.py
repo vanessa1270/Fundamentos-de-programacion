@@ -11,7 +11,7 @@ app5 = input("App 5: ")
 print("Ingresa el tiempo que le dedicas a cada aplicación:")
 
 t_app1 = float(input("Tiempo en horas de " + app1 + ": "))
-t_app2 = float(input("Tiempo en horasde " + app2 + ": "))  
+t_app2 = float(input("Tiempo en horas de " + app2 + ": "))  
 t_app3 = float(input("Tiempo en horas de " + app3 + ": "))
 t_app4 = float(input("Tiempo en horas de " + app4 + ": "))
 t_app5 = float(input("Tiempo en horas de " + app5 + ": "))
@@ -21,4 +21,4 @@ print("El tiempo total dedicado a las aplicaciones es de:", tiempo_total, "horas
 
 porcentaje_total = (tiempo_total / 24)* 100
 print("El porcentaje del tiempo total dedicado a las aplicaciones es de:", porcentaje_total, "%")
-print("Utilizas mucho el celular ponte a hacer algo productivo!!")
+
