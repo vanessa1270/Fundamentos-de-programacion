@@ -11,3 +11,6 @@ Semana 3
 
 Semana 4 
     En esta semana estuvimos viendo listas y matrices, no fue tan sencillo como todo lo anterior, realmente se mehizo complicado, pero creo que entendi un poco más la lógica de las funciones.
+
+Semana 5
+    En esta semana realice ejercicios para saber la longitud de una frase y aprendi de mejor manera el como usar las funciones para crear listas y tuplas.
