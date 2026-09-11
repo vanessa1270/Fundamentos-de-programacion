@@ -106,8 +106,4 @@ while True:
     else:
         print("Elige una opción válida del 1 al 5")
 
-
-
-
-
-
+        
