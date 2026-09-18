@@ -14,3 +14,6 @@ Semana 4
 
 Semana 5
     En esta semana realice ejercicios para saber la longitud de una frase y aprendi de mejor manera el como usar las funciones para crear listas y tuplas.
+
+Semana 6
+    En esta semana realice mi certificación de python y me ayudo a entender de mejor manera programación al igual que los ejericios de practica por castigo, pero creo que se aprovechan ya que aprendes más.
