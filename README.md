@@ -17,3 +17,6 @@ Semana 5
 
 Semana 6
     En esta semana realice mi certificación de python y me ayudo a entender de mejor manera programación al igual que los ejericios de practica por castigo, pero creo que se aprovechan ya que aprendes más.
+
+Semana 7
+    EN esta semana trabajé en mi codigo final, el proyecto y aprendí a hacer archivos para guardar lo anterior y hacer un conteo del registro de las personas.
