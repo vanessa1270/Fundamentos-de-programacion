@@ -17,13 +17,12 @@ if not os.path.exists(ARCHIVO):
 
 def nombre_alumno(mensaje):
     while True:
-        nombre = input(mensaje).strip()
-        import pdb; pdb.set_trace()   # <-- breakpoint temporal para depurar
+        nombre = input(mensaje).strip() 
         if nombre.isalpha():
             return nombre
         else:
             print("Error: Escribe un nombre válido (solo letras, sin números ni símbolos).")
-            
+
 def edad_alumno(mensaje):
     while True:
         try:
